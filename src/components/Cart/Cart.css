@@ -1,0 +1,16 @@
+.cart{
+    background-color: rgb(228, 228, 228);
+    border-radius: 5px;
+    padding:10px;
+}
+.player-header{
+    background-color:lightgray;
+    padding:8px;
+    border-radius:5px
+}
+.player-style{
+    background-color:rgb(248, 226, 226);
+    padding:8px;
+    border:1px solid azure;
+    border-radius:5px
+}

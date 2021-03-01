@@ -1,0 +1,23 @@
+.player{
+    border:1px solid lightgray;
+    margin: 10px;
+    width:260px;
+    border-radius: 10px;
+    display:inline-block;
+    text-align:center;
+    box-shadow: 3px 4px 8px rgb(173,173,173);
+}
+.player img{
+    height: 200px;
+    width:170px;
+}
+.player:hover{
+    color:rgb(183, 126, 236);
+}
+.main-btn{
+    margin-bottom: 5px;
+    width: 180px;
+    padding:7px;
+    border-radius: 5px;
+    cursor: pointer;
+}

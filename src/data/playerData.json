@@ -1,0 +1,139 @@
+[{
+    "id": 1,
+    "name":"Tamim Iqbal",
+    "team":"Bangladesh",
+    "birth_place":"Chittagong",
+    "role":"Batsman",
+    "age": 31,
+    "salary":400000,
+    "image":"https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Tamim-Iqbal-CWC19.ashx"
+  }, {
+    "id": 2,
+    "name":"Sakib Al Hasan",
+    "team":"Bangladesh",
+    "birth_place":"Magura, Jessore",
+    "role":"Batting Allrounder",
+    "age": 33,
+    "salary":450000,
+    "image":"https://resources.pulse.icc-cricket.com/players/284/201.png"
+  }, {
+    "id": 3,
+    "name":"Mushfiqur Rahim",
+    "team":"Bangladesh",
+    "birth_place":"Bogra",
+    "role":"WK-Batsman",
+    "age": 33,
+    "salary":420000,
+    "image":"https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mushfiqur-Rahim-CWC19.ashx"
+  }, {
+    "id": 4,
+    "name":"Mustafizur Rahman",
+    "team":"Bangladesh",
+    "birth_place":"Satkhira",
+    "role":"Bowler",
+    "age": 25,
+    "salary":150000,
+    "image":"https://resources.pulse.icc-cricket.com/players/284/1594.png"
+  }, {
+    "id": 5,
+    "name":"Mashrafe Mortaza",
+    "team":"Bangladesh",
+    "birth_place":"Norail, Jessore",
+    "role":"Bowler",
+    "age": 37,
+    "salary":500000,
+    "image":"https://resources.pulse.icc-cricket.com/players/284/391.png"
+  },
+  {
+    "id": 12,
+    "name":"Mohammad Saifuddin",
+    "birth_place":"Feni, Chittagong",
+    "team":"Bangladesh",
+    "role":"Batting Allrounder",
+    "age": 24,
+    "salary":250000,
+    "image":"https://resources.pulse.icc-cricket.com/players/284/2915.png"
+  },
+  {
+    "id": 7,
+    "name":"Mahmudullah",
+    "birth_place":"Mymensingh",
+    "team":"Bangladesh",
+    "role":"Batting Allrounder",
+    "age": 35,
+    "salary":400000,
+    "image":"https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mahmudullah-CWC19.ashx"
+  }, {
+    "id": 8,
+    "name":"Soumya Sarkar",
+    "team":"Bangladesh",
+    "birth_place":"Satkhira",
+    "role":"Batsman",
+    "age": 28,
+    "salary":250000,
+    "image":"https://resources.pulse.icc-cricket.com/players/284/1919.png"
+  }, {
+    "id": 9,
+    "name":"Liton Das",
+    "team":"Bangladesh",
+    "birth_place":"Dinajpur",
+    "role":"WK-Batsman",
+    "age": 26,
+    "salary":300000,
+    "image":"https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Liton-Das-CWC19.ashx"
+  }, {
+    "id": 10,
+    "name":"Rubel Hossain",
+    "birth_place":"Bagerhat, Khulna",
+    "team":"Bangladesh",
+    "role":"Bowler",
+    "age": 31,
+    "salary":200000,
+    "image":"https://resources.pulse.icc-cricket.com/players/284/1135.png"
+  }, {
+    "id": 11,
+    "name":"Sabbir Rahman",
+    "birth_place":"Rajsahi",
+    "team":"Bangladesh",
+    "role":"Batsman",
+    "age": 29,
+    "salary":300000,
+    "image":"https://resources.pulse.icc-cricket.com/players/284/1734.png"
+  }, {
+    "id": 6,
+    "name":"Mehidy Hasan",
+    "birth_place":"Khulna",
+    "team":"Bangladesh",
+    "role":"Bowling Allrounder",
+    "age": 23,
+    "salary":220000,
+    "image":"https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mehedi-Hasan-CWC19.ashx"
+  },  {
+    "id": 13,
+    "name":"Mosaddek Hossain",
+    "birth_place":"Mymensingh",
+    "team":"Bangladesh",
+    "role":"Batting Allrounder",
+    "age": 25,
+    "salary":150000,
+    "image":"https://resources.pulse.icc-cricket.com/players/284/1588.png"
+  }, {
+    "id": 6,
+    "name":"Mohammad Abu Jayed",
+    "birth_place":"Khulna",
+    "team":"Bangladesh",
+    "role":"Bowler",
+    "age": 23,
+    "salary":220000,
+    "image":"https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Abu-Jayed-CWC19.ashx"
+  },  {
+    "id": 15,
+    "name":"Mohammad Mithun",
+
+    "team":"Bangladesh",
+    "birth_place":"----------",
+    "role":"WK-Batsman",
+    "age": 29,
+    "salary":250000,
+    "image":"https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mohammad-Mithun-CWC19.ashx"
+  }]
